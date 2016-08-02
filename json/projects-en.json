@@ -1,0 +1,94 @@
+{
+	"projects" : [
+		
+		{
+			"title" : "SURGEONS'S MEDICAL OFFICE",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-0-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : "PRIVATE HOUSE",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-1-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : "GREEK TRADITIONAL KEFENEIO",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-2-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : "APARTMENT IN LISTED BUILDING",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-3-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : 'PATTERN DESIGN OF A MEDICLA OFFICE | CLIENT "IATRICA"',
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-4-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : "PRIVATE CONSTRUCTIONS",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-5-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : "ORTHODONTIST'S OFFICE",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-6-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : "CAR SHOWROOM",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-7-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : "DESIGNS AND RENDERINGS",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-8-",
+			"imagesNumber" :,
+		}
+	]
+}

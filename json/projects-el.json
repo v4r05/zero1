@@ -1,0 +1,94 @@
+{
+	"projects" : [
+		
+		{
+			"title" : "ΙΑΤΡΕΙΟ ΧΕΙΡΟΥΡΓΟΥ",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-0-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : "ΔΙΑΜΕΡΙΣΜΑ ΙΔΙΩΤΗ",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-1-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : "ΠΑΡΑΔΟΣΙΑΚΟ ΚΑΦΕΝΕΙΟ",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-2-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : "ΔΙΑΜΕΡΙΣΜΑ ΣΕ ΔΙΑΤΤΗΡΗΤΕΟ ΚΤΙΡΙΟ",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-3-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : "ΠΡΟΤΥΠΟ ΙΑΤΡΕΙΟΥ ΔΙΚΤΥΟΥ IATRICA",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-4-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : "ΙΔΙΩΤΙΚΕΣ ΚΑΤΑΣΚΕΥΕΣ",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-5-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : "ΙΑΤΡΕΙΟ ΟΡΘΟΔΟΝΤΙΚΟΥ",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-6-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : "ΕΚΘΕΣΗ ΑΥΤΟΚΙΝΗΤΩΝ",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-7-",
+			"imagesNumber" :,
+		},
+		
+		{
+			"title" : "ΜΕΛΕΤΗ ΚΑΙ ΦΩΤΟΡΕΑΛΙΣΜΟΣ",
+			"frontDescription" : "",
+			"shortDescription" : "",
+			"longDescription" : "",
+			"imagesFolder" : "images/projects",
+			"imagesPrefix" : "proj-8-",
+			"imagesNumber" :,
+		}
+	]
+}

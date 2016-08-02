@@ -1,0 +1,114 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: "Open Sans", sans-serif;
+	text-decoration: none;
+}
+
+body,html
+{
+	height: 100%;
+}
+
+.parallax
+{
+	position: relative;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 100%;
+}
+
+.parallax-content
+{
+	position: absolute;
+	left: 0;
+	top: 50%;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+.jumbotron
+{
+	background: rgba(199,203,205,0.95);
+	padding: 10px;
+	margin: 0px;
+}
+
+.container
+{
+	padding: 0px;
+	margin: 20pxpx;
+}
+
+.capital
+{
+	margin: 10px;
+	padding: 0;
+	font-size: 1.75em;
+	font-family: "Open Sans", sans-serif;
+	font-weight: 100;
+}
+
+.horizontal-line
+{
+	position: relative;
+	width: 200px;
+	margin: auto;
+	border-color: bisque;
+	padding: 20px;
+}
+
+.thumbnail
+{
+	text-align: center;
+}
+
+.non-clickable
+{
+	pointer-events: none;
+	cursor: default;
+}
+
+#main-container
+{
+	height: 100%;
+}
+
+#navigation-holder
+{
+	opacity: 0.0;
+	position: fixed;
+	width: 100%;
+	z-index: 1;
+}
+
+#navigation-bar
+{
+	overflow: hidden;
+	border-radius: 0;
+	background-color: white;
+	box-shadow: 2px 2px 2px rgba(50,50,50,0.7);
+}
+
+#navigation-fluid-container
+{
+	height: inherit;
+}
+
+.navbar-header
+{
+	height: inherit;
+}
+
+.navbar-brand
+{
+	height: inherit;
+}
+
+#nav-list
+{
+	height: inherit;
+}
