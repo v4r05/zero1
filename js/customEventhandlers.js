@@ -1,7 +1,9 @@
 function scrollEventhandler(){
-	
+		
 	var y = window.pageYOffset;
 	var h = window.innerHeight;
+	console.log(y);
+	console.log(h);
 	
 	if(y>globalValues.imagePosition){
 		globalValues.imageScroll+=1;

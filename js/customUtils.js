@@ -37,3 +37,22 @@ function assignParallaxes(jsonFile,parallaxElement,parallaxImage){
 		parallaxElement[i].style.backgroundSize = info.styles[i];
 	}	
 }
+
+function ParallaxElements(elements){
+	this.elementTops = [];
+	
+	console.log(elements);
+	
+	for(i=0;i<elements.length;++i){
+		//elementTops[i] = lm.getBoundingClientRect().top;
+		console.log(elements[i]);
+	
+		var rect = elements[i].getBoundingClientRect();
+	
+		console.log(rect.top);
+	}
+}
+
+ParallaxElements.prototype.currentElement = function(position){
+	
+}
